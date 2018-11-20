@@ -9,5 +9,3 @@ str = reverse.toString();
 str = str.replace(/,/g, "");
 return str;
 }
-
-console.log(reverseString("htraE morf sgniteerG"));
