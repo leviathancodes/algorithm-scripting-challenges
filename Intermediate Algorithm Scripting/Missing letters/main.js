@@ -5,7 +5,6 @@ function fearNotLetter(str) {
     console.log(last);
     let regex = new RegExp(/[first-last]/)
     console.log(regex.match(str));
-
     return str;
   }
   
